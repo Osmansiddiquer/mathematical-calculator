@@ -1,2 +1,2 @@
 # mathematical-calculator
-Use task 5 for the final version
+A step-by-step solver for simple mathematical expressions
